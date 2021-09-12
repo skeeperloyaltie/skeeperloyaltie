@@ -4,7 +4,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=skeeperloyaltie&theme=dark&show_icons=true">](https://metrics.lecoq.io/skeeperloyaltie?template=classic)
 
-I'm Y**ou** Y**u**f**an**, a freshman at THU.
+I'm Skeeper Loyaltie, a Stats Guy, Next Door.
 
 -   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
 -   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
