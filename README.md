@@ -4,13 +4,8 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=skeeperloyaltie&theme=dark&show_icons=true">](https://metrics.lecoq.io/skeeperloyaltie?template=classic)
 
-I'm Skeeper Loyaltie, a Stats Guy, Next Door.
-
--   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
--   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
--   :pencil2: Arch Linux / i3-wm / Oh My Zsh / NeoVim / Firefox
--   :man_scientist: [INTP](https://www.16personalities.com/intp-personality) personality
--   :man: Pronouns: he/him
+I'm Skeeper Loyaltie, just a nerd, freaking bastard.
+-   :hammer_and_pick: Python/R | php | Analysis in general
 -   
 
 ---
