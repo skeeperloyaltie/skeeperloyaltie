@@ -16,5 +16,7 @@ I'm Skeeper Loyaltie, just a nerd, freaking bastard.
 #### :bar_chart: Weekly development breakdown
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skeeperloyaltie&layout=compact)](https://github.com/skeeperloyaltie/github-readme-stats)
 
+## Wakatime
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sk33p34)](https://github.com/skeeperloyaltie/github-readme-stats)
 
 
