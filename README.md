@@ -3,6 +3,7 @@
 ## Hey, Skeeper here! :wave: [![ ](https://cfrating.ihcr.top/?user=skeeperloyaltie&style=flat-square)](https://codeforces.com/profile/skeeperloyaltie)
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=skeeperloyaltie&theme=dark&show_icons=true">](https://metrics.lecoq.io/skeeperloyaltie?template=classic)
+![Skeeper's Stats ](https://github-readme-stats.vercel.app/api?username=skeeperloyaltie&show_icons=true&theme=radical)
 
 I'm Skeeper Loyaltie, just a nerd, freaking bastard.
 -   :hammer_and_pick: Python/R | php | Analysis in general
