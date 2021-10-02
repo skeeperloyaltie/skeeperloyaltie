@@ -1,8 +1,7 @@
 
 
-## Hey, Skeeper here! :wave: [![ ](https://cfrating.ihcr.top/?user=skeeperloyaltie&style=flat-square)](https://codeforces.com/profile/skeeperloyaltie)
+## Hey, Skeeper here! :wave: [![ ]
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=skeeperloyaltie&theme=dark&show_icons=true">](https://metrics.lecoq.io/skeeperloyaltie?template=classic)
 ![Skeeper's Stats ](https://github-readme-stats.vercel.app/api?username=skeeperloyaltie&show_icons=true&theme=radical)
 
 I'm Skeeper Loyaltie, just a nerd, freaking bastard.
@@ -16,10 +15,4 @@ I'm Skeeper Loyaltie, just a nerd, freaking bastard.
 
 #### :bar_chart: Weekly development breakdown
 
-### : Marka Breakdown
 
----
-
-#### :star2: Projects starred by me
-
-[My Awesome Stars](AWESOME-STARS.md)
