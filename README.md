@@ -1,8 +1,7 @@
 ## Hey, Skeeper here! :wave: [![ ]
 <div align="center">
   <h2 align="left"> Hey there! 👋, I'm Godfrey Gudah.</h2>
-[![wakatime](https://wakatime.com/badge/user/5cb09b6f-afc0-48f6-965a-2d8192ae1d89.svg)](https://wakatime.com/@5cb09b6f-afc0-48f6-965a-2d8192ae1d89)
-<br />
+[![wakatime](https://wakatime.com/badge/user/5cb09b6f-afc0-48f6-965a-2d8192ae1d89.svg)](https://wakatime.com/@5cb09b6f-afc0-48f6-965a-2d8192ae1d89)<br />
 <h3 align="center">The dev from +254.</h3>
   <br />
   
