@@ -1,6 +1,9 @@
 ## Hey, Skeeper here! :wave: [![ ]
 <div align="center">
   <h2 align="left"> Hey there! 👋, I'm Godfrey Gudah.</h2>
+   <img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/2579?logoColor=white%26project=%26recentMS=0%26showProject=false" />
+![Code Time](https://img.shields.io/endpoint?style=for-the-badge&url=https://codetime-api.datreks.com/badge/2579?logoColor=white%26project=%26recentMS=0%26showProject=true)
+  
 <h3 align="center">The dev from +254.</h3>
   <br />
   
@@ -32,8 +35,7 @@
 </div>
 <div>
   ### Stats
-  <img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/2579?logoColor=white%26project=%26recentMS=0%26showProject=false" />
-  ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/2579?logoColor=white%26project=%26recentMS=0%26showProject=false)
+ 
   <!--START_SECTION:waka-->
   
   <!--END_SECTION:waka-->
