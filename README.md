@@ -1,6 +1,5 @@
 ## Hey, Skeeper here! :wave: [![ ]
 <div align="center">
-  <h2 align="left"> Hey there! 👋, I'm Godfrey Gudah.</h2>
    <img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/2579?logoColor=white%26project=%26recentMS=0%26showProject=false" />
    
 <div>
