@@ -3,9 +3,9 @@
    <div>
    
   <!--START_SECTION:waka-->
-      [![wakatime](https://wakatime.com/badge/user/5cb09b6f-afc0-48f6-965a-2d8192ae1d89.svg)](https://wakatime.com/@5cb09b6f-afc0-48f6-965a-2d8192ae1d89)
-      [![twitter](https://img.shields.io/twitter/follow/skeeperloyaltie?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/skeeperloyaltie)
-      [![github](https://img.shields.io/github/followers/skeeperloyaltie?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
+ [![wakatime](https://wakatime.com/badge/user/5cb09b6f-afc0-48f6-965a-2d8192ae1d89.svg)](https://wakatime.com/@5cb09b6f-afc0-48f6-965a-2d8192ae1d89)
+ [![twitter](https://img.shields.io/twitter/follow/skeeperloyaltie?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/skeeperloyaltie)
+ [![github](https://img.shields.io/github/followers/skeeperloyaltie?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
   <!--END_SECTION:waka-->
 </div>
 <div align="left">
