@@ -1,5 +1,5 @@
 <div align="center">
-## Hey, Skeeper here! :wave: [![ ] 😆
+## Hey, Skeeper here! :wave: [![ ]
    <div>
   <!--START_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/5cb09b6f-afc0-48f6-965a-2d8192ae1d89.svg)](https://wakatime.com/@5cb09b6f-afc0-48f6-965a-2d8192ae1d89)
