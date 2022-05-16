@@ -7,8 +7,9 @@
  [![twitter](https://img.shields.io/twitter/follow/skeeperloyaltie?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/skeeperloyaltie)
  [![github](https://img.shields.io/github/followers/skeeperloyaltie?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
   <!--END_SECTION:waka-->
-      <p align="center"> <img src="https://komarev.com/ghpvc/?username=skeeperloyaltie&label=Profile%20views&color=0e75b6&style=flat" alt="skeeperloyaltie" /> </p>
+      
 </div>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=skeeperloyaltie&label=Profile%20views&color=0e75b6&style=flat" alt="skeeperloyaltie" /> </p>
 <div align="left">
    <!-- my details -->
   - 👩‍🚒 Working as a freelancer
