@@ -5,7 +5,7 @@
   <!--START_SECTION:waka-->
  [![wakatime](https://wakatime.com/badge/user/5cb09b6f-afc0-48f6-965a-2d8192ae1d89.svg)](https://wakatime.com/@5cb09b6f-afc0-48f6-965a-2d8192ae1d89)
  [![twitter](https://img.shields.io/twitter/follow/skeeperloyaltie?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/skeeperloyaltie)
- [![github](https://img.shields.io/github/followers/skeeperloyaltie?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
+ [![github](https://img.shields.io/github/followers/skeeperloyaltie?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers) <br>
  [![Skeeper Tech Status](https://api.netlify.com/api/v1/badges/dc2567a3-5eed-433c-bbd4-6e62b984ab50/deploy-status)](https://app.netlify.com/sites/skeepertech/deploys)
  <!--END_SECTION:waka-->
 </div>
