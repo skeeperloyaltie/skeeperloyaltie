@@ -12,14 +12,12 @@
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=skeeperloyaltie&label=Profile%20views&color=0e75b6&style=flat" alt="skeeperloyaltie" /> </p>
 <div align="left">
    <!-- my details -->
-  - 👩‍🚒 Working as a freelancer
+  - 👩‍🚒 Just a tech
   
-  - 💥 Interests in Data Analysis and Network Design.
+  - 💥 [Current Evaluation] Big O Notation [ Python ].
   
-  - 🔭 I’m currently working on [Machine Learning with R]
-
-  - 🗣️ I speak English and Swahili.
-
+  - 🔭 I’m currently working on Android Kotlin
+   
   - 📫 How to reach me **gugod254@gmail.com**
 </div>
 <div>
