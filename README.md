@@ -8,9 +8,8 @@
  [![github](https://img.shields.io/github/followers/skeeperloyaltie?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers) <br>
  [![Skeeper Tech Status](https://api.netlify.com/api/v1/badges/dc2567a3-5eed-433c-bbd4-6e62b984ab50/deploy-status)](https://app.netlify.com/sites/skeepertech/deploys)
  <!--END_SECTION:waka-->
-      <br>
    [![Happy Birthday](https://img.shields.io/badge/Happy%20Birthday-%F0%9F%8E%82-blue)]()
-<br>
+
 </div>
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=skeeperloyaltie&label=Profile%20views&color=0e75b6&style=flat" alt="skeeperloyaltie" /> </p>
 <div align="left">
