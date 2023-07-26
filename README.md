@@ -1,34 +1,50 @@
 ## Hey, Godfrey here! :wave:
-<div align="center">
-   <div>
-   
-  <!--START_SECTION:waka-->
- [![wakatime](https://wakatime.com/badge/user/5cb09b6f-afc0-48f6-965a-2d8192ae1d89.svg)](https://wakatime.com/@5cb09b6f-afc0-48f6-965a-2d8192ae1d89)
- [![twitter](https://img.shields.io/twitter/follow/skeeperloyaltie?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/skeeperloyaltie)
- [![github](https://img.shields.io/github/followers/skeeperloyaltie?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers) <br>
- [![Skeeper Tech Status](https://api.netlify.com/api/v1/badges/dc2567a3-5eed-433c-bbd4-6e62b984ab50/deploy-status)](https://app.netlify.com/sites/skeepertech/deploys)
- <!--END_SECTION:waka-->
-   [![Happy Birthday to Me](https://img.shields.io/badge/Happy%20Birthday-%F0%9F%8E%82-blue)]()
 
-</div>
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=skeeperloyaltie&label=Profile%20views&color=0e75b6&style=flat" alt="skeeperloyaltie" /> </p>
-<div align="left">
-   <!-- my details -->
-   
-  - 👩‍🚒 Just a tech
-  
-  - 💥 [Current Evaluation] Big O Notation [ Python ].
-  
-  - 🔭 I’m currently working on Android Kotlin
-   
-  - 📫 How to reach me **gugod254@gmail.com**
-</div>
-<div>
-</div>
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skeeperloyaltie&show_icons=true&locale=en" alt="Skeeper Loyaltie" /></p>
 
-![Metrics](https://metrics.lecoq.io/skeeperloyaltie?template=classic&introduction=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&introduction=false&introduction.title=true&tweets=false&tweets.user=skeeperloyaltie&tweets.attachments=false&tweets.limit=2&config.timezone=Africa%2FNairobi)
-<!---
-🔗 &nbsp;**Connect with me**
-<a href="https://twitter.com/skeeperloyaltie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/collins-ngeno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a> -->
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Skeeper</h1>
+<h3 align="left">I do what I do</h3>
+
+<p align="left">
+  <a href="https://github.com/MacroPower/skeeperloyaltie">
+    <img src="https://komarev.com/ghpvc/?username=skeeperloyaltie" alt="page views" />
+  </a>
+  <a href="https://macropower.readthedocs.io/en/latest">
+    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/skeeperloyatie?logo=read-the-docs">
+  </a>
+  <a href="https://stackoverflow.com/users/skeeper">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/skeeper?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://reddit.com/u/skeeperloyaltie">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/skeeperloyaltie?label=karma&logo=reddit">
+  </a>
+  <a href="https://github.com/skeeperloyaltie?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/skeeperloyaltie?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
+
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+</a>
+
+- :office: &nbsp;I'm currently working at **[84.51°]**
+- :seedling: &nbsp;I’m currently working on my **[homelab]**
+- :speech_balloon: &nbsp;I like to talk about **tech** and other **OSS**
+- :book: &nbsp;Learn more about my projects on my **[blog]**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
+<br>
+
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
+
+<!-- links -->
+
+[84.51°]: https://github.com/8451 "84.51° Github Home"
+[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
+[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
+[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
+[blog]: https://jacobcolvin.com/posts/ "My Blog"
