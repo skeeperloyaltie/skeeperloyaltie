@@ -25,16 +25,14 @@
   </a>
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+<a href="#skeeperloyaltie-title">
+  <img src="https://raw.githubusercontent.com/skeeperloyaltie/github-stats-transparent/output/generated/overview.svg" alt="skeeperloyaltie" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **tech** and other **OSS**
+- :office: &nbsp;I'm currently working at **[0dx03°]**
 - :book: &nbsp;Learn more about my projects on my **[blog]**
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on **[Github]**
 
 <br>
 
@@ -43,8 +41,5 @@
 
 <!-- links -->
 
-[84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
-[homelab]: https://github.com/MacroPower/homelab "MacroPower/homelab"
-[blog]: https://jacobcolvin.com/posts/ "My Blog"
+[0dxd03°]: https://github.com/skeeperloyaltie "0dx03° Github Home"
+[issues page]: https://github.com/skeeperloyaltie/skeeerloyaltie/issues "skeeperloyaltie/issues"
