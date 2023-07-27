@@ -1,6 +1,5 @@
 ## Hey, Godfrey here! :wave:
 
-
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Skeeper</h1>
 <h3 align="left">I do what I do</h3>
 
