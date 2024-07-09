@@ -24,9 +24,10 @@
 </div>
 <div>
 </div>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sk33p34/b9b097f8-5422-48ac-82c1-19962576ba63.png" /></a>
    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skeeperloyaltie&show_icons=true&locale=en" alt="Skeeper Loyaltie" /></p>
 
-![Metrics](https://metrics.lecoq.io/skeeperloyaltie?template=classic&introduction=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&introduction=false&introduction.title=true&tweets=false&tweets.user=skeeperloyaltie&tweets.attachments=false&tweets.limit=2&config.timezone=Africa%2FNairobi)
+[!(wakatime)(https://wakatime.com/share/@sk33p34/b9b097f8-5422-48ac-82c1-19962576ba63.png)](https://wakatime.com/)
 <!---
 🔗 &nbsp;**Connect with me**
 <a href="https://twitter.com/skeeperloyaltie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
