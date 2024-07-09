@@ -12,13 +12,9 @@
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=skeeperloyaltie&label=Profile%20views&color=0e75b6&style=flat" alt="skeeperloyaltie" /> </p>
 <div align="left">
    <!-- my details -->
-  - 👩‍🚒 Still figuring out
+  - 👩‍🚒 Wubba lubba dub dub
   
-  - 💥 Interests in Data Analysis and Network Design.
-  
-  - 🔭 I’m currently working on [Machine Learning with R]
-
-  - 🗣️ I speak English and Swahili.
+  - Into Machine Analysis
 
   - 📫 How to reach me **gugod254@gmail.com**
 </div>
