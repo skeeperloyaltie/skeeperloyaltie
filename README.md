@@ -12,11 +12,11 @@
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=skeeperloyaltie&label=Profile%20views&color=0e75b6&style=flat" alt="skeeperloyaltie" /> </p>
 <div align="left">
    <!-- my details -->
-  - Wubba lubba dub dub
-  
-  - Into Machine Analysis
-
-  - How to reach me **gugod254@gmail.com**
+  <ul>
+   <li>Wubba lubba dub dub</li>  
+   <li>Into Machine Analysis</li>
+   <li>How to reach me **gugod254@gmail.com**</li>
+  </ul>
 </div>
 <div>
 </div>
